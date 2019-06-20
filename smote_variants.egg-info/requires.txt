@@ -1,0 +1,17 @@
+numpy>=1.13.0
+scipy
+scikit-learn
+joblib
+minisom
+statistics
+pandas
+
+[docs]
+sphinx
+sphinx-gallery
+sphinx_rtd_theme
+matplotlib
+pandas
+
+[tests]
+nose

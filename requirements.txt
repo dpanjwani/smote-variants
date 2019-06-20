@@ -1,0 +1,9 @@
+joblib
+numpy>=1.13.0
+pandas
+scipy
+sklearn
+minisom==2.1.4
+statistics
+nose
+
